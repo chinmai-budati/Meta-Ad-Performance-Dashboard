@@ -62,5 +62,6 @@ To provide a performance-centric view of the Meta ecosystem that enables:
 * **Scalability:** Clear visibility into winning audiences provides a roadmap for increasing budget with confidence.
 
 ### 7. Screenshot:
-![Dashboard Preview](https://github.com/chinmai-budati/Meta-Ad-Performance-Dashboard/blob/main/Insurance%20Dashboard.png)
-![Dashboard Preview](https://github.com/chinmai-budati/Insurance-Dashboard/blob/main/Insurance%20Dashboard.png)
+![Dashboard Preview](https://github.com/chinmai-budati/Meta-Ad-Performance-Dashboard/blob/main/Ad%20Performance1.png)
+
+![Dashboard Preview](https://github.com/chinmai-budati/Meta-Ad-Performance-Dashboard/blob/main/Ad%20Performance2.png)
