@@ -6,7 +6,7 @@ A sophisticated Power BI dashboard designed to evaluate the performance of marke
 
 ### 2. Purpose
 
-The purpose of this dashboard is to provide marketing teams and stakeholders with a centralized view of their digital advertising ROI. By monitoring real-time KPIs like Click-Through Rate (CTR) and Cost Per Conversion, users can identify high-performing ad sets, minimize wasted spend on underperforming creative, and refine audience targeting strategies to maximize lead generation and sales.
+The purpose of this dashboard is to provide marketing teams and stakeholders with a centralized view of their digital advertising Return on Investment(ROI). By monitoring real-time KPIs like Click-Through Rate (CTR) and Cost Per Conversion, users can identify high-performing ad sets, minimize wasted spend on underperforming creative, and refine audience targeting strategies to maximize lead generation and sales.
 
 ### 3. Tech Stack
 
@@ -21,11 +21,10 @@ The dashboard was built using the following tools and technologies:
 
 The project utilizes a comprehensive Marketing Dataset containing:
 
-* **Campaign Metrics:** Campaign Name, Ad Set Name, and Creative ID.
-* **Performance Data:** Impressions, Clicks, Reach, and Frequency.
-* **Financial Data:** Spend (Amount Used), Cost Per Click (CPC), and CPM.
-* **Conversion Data:** Leads, Website Purchases, and Conversion Value.
-* **Temporal Data:** Daily, Weekly, and Monthly performance timestamps.
+* **Campaigns Data:** Campaign Id, Campaign Name, Start Date, End dDate, Duration, Total Budget.
+* **Users data:** User Id, User Gender, User Age, Age Group, Country,Location, Interests.
+* **Ads Data:** Ad Id, Campaign Id, Ad Platform, Ad Type, Target Gender, Target Age, Target Interests.
+* **Ad Events Data:** Event id, Ad Id, User Id, Timestamp, Day of Week, Time of Day, Event type.
 
 ### 5. Features
 
