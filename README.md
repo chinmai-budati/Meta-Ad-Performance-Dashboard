@@ -62,6 +62,10 @@ To provide a performance-centric view of the Meta ecosystem that enables:
 
 ### 7. Screenshot:
 
-![Dashboard Preview](https://github.com/chinmai-budati/Meta-Ad-Performance-Dashboard/blob/main/Images/Ad%20Performance1.png)
 
-![Dashboard Preview](https://github.com/chinmai-budati/Meta-Ad-Performance-Dashboard/blob/main/Images/Ad%20Performance2.png)
+**[Click Here to Interact with the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGIzYmRlNGMtOGRiNS00YzY0LTlkMmQtYjY0MjQ1YzY3MjBhIiwidCI6IjhlMjQ0OTAwLWJiZDQtNGNlMC1iNzlhLTQ4ZTMwYWRjMDFkNyJ9
+)**
+
+(If the live link is unavailable, view the automated system demonstration below)
+
+![Dashboard Preview](https://github.com/chinmai-budati/Meta-Ad-Performance-Dashboard/blob/main/Demo.gif)
